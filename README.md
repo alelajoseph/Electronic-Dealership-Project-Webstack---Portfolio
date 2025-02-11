@@ -30,7 +30,7 @@
 - Admins can access the admin panel by visiting /admin and log in using admin credentials.
 - Manage orders, update product inventory, and perform other administrative tasks from the admin panel.
 
-## AUOTHOR
+## AUTHOR/DEV
 - Alela Etenyi Joseph
 
 ## License
